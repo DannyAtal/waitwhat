@@ -1,0 +1,5 @@
+tensorflow
+pytorch
+matplotlib
+opencv
+gradientofthegalaxy
